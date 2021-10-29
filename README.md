@@ -17,6 +17,6 @@ I then segregated the data into separate columns of positive and negative sentim
 
 **First visualisation:** the words present in the book “Emma” based on their corrosponding positive and negative scores. I counted the most common positive and negative words that are present in the novel.
 
-**Second visualization:** sentiment score. I plotted the scores along the axis that is labeled with both positive as well as negative words. 
+**Second visualisation:** sentiment score. I plotted the scores along the axis that is labeled with both positive as well as negative words. 
 
-**Final visualization:** I created a wordcloud that described the most recurring positive and negative words. 
+**Final visualisation:** I created a wordcloud that described the most recurring positive and negative words. 
