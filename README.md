@@ -20,3 +20,6 @@ I then segregated the data into separate columns of positive and negative sentim
 **Second visualisation:** sentiment score. I plotted the scores along the axis that is labeled with both positive as well as negative words. 
 
 **Final visualisation:** I created a wordcloud that described the most recurring positive and negative words. 
+
+
+Cr:DataFlair
